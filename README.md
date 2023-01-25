@@ -1,4 +1,4 @@
-<h1>Welcome! Thank you for stopping by. My name is Kenson and I'm an <a href="https://www.linkedin.com/in/kenson-seraphin-06b794121/">IT Professional</a>☺</h1>
+<h1>Welcome! Thank you for stopping by. My name is Kenson and I'm an <a href="https://www.linkedin.com/in/kenson-seraphin-06b794121/">IT Professional</a>😁</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
